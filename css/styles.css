@@ -12,4 +12,11 @@ p{
 }
 ul{
   line-height: normal;
+}.sidebar{
+  width: 55%;
+  float:left;
+  background-color: red;
 }
+.author{
+  color: blue
+  }
